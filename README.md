@@ -1,5 +1,3 @@
-# Algoritmo y estructura de datos tp 4
-
 # Algoritmo de Compresión de Huffman
 
 ### Alumno: Linda Candela Paz
